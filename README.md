@@ -32,9 +32,7 @@ Put in your best efforts to complete one of these three challenge tiers:
 
 * What kind of association you would like to use is up to you. Does a Customer have one Burger? Many Burgers?
 
-* For example, you could make a site that logs the name of which Customer ate which Burger, where each Customer only gets one Burger. If you can't think of another type of association, try this one!
-
-    ![3-Associated](Images/3-Associated.jpg)
+* For example, you could make a site that logs the name of which Customer ate which Burger, where each Customer only gets one Burger.
 
 * If you do go select this tier, you must edit the handlebars files and CSS stylesheets to implement some sort of additional feature to the site. We don't want you to just connect two models and submit your project. Make your site do something relevant to this association.
 
