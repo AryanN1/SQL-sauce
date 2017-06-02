@@ -1,4 +1,4 @@
-# SQL-sauce
+# SQL-Sauce
 
 1. Create a new folder called `sequelizedBurger`
 2. Copy the contents of your completed assignment from last week.
